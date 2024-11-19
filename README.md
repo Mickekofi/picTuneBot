@@ -24,7 +24,7 @@
     Our team is hard at work creating something amazing for you. Stay tuned for the final release, and thank you for your patience!
   </p>
   <p style="font-size: 1.8em; font-weight: bold; color: #2c3e50;">
-    The full release is expected on <span style="color: #27ae60;">November 18, 2024</span>.
+    The full release is expected on <span style="color: #27ae60;">December 18, 2024</span>.
   </p>
   <img src="https://media.giphy.com/media/l3nWhI38IWDofyDrW/giphy.gif" alt="working on it" style="width: 200px; margin-top: 30px;">
 </div>
